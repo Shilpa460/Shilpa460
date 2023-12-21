@@ -1,0 +1,24 @@
+a = input('Enter the name': ) 
+b = int(input("Enter your age: ") 
+i = a
+while i != bye
+    a = input(f"{a}: ") 
+    if a = 'hi':
+       print(f"bot:hello, {a}") 
+       print("bot:how are you") 
+    elif a == 'I am fine':
+       print("bot: ok") 
+    elif a == 'how are you':
+       print(' bot: i am fine thank you for asking') 
+    elif a == 'then'
+       print('what is your age: ')     
+    elif a == ('my age is ', b) :
+        print('right') 
+    elif a == 'bye' 
+        break
+
+    else:
+        print('ok') 
+    
+       
+    
